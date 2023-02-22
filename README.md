@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este repositorio de prueba del modulo 2
+Probando como crear un repositorio y clonarlo desde github
